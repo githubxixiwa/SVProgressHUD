@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name     = 'SVProgressHUD'
-  s.version  = '2.2.2'
+  s.version  = '2.2.5'
   s.ios.deployment_target = '8.0'
   s.tvos.deployment_target = '9.0'
-  s.license  =  { :type => 'MIT', :file => 'LICENSE.txt' }
+  s.license  =  { :type => 'MIT', :file => 'LICENSE' }
   s.summary  = 'A clean and lightweight progress HUD for your iOS and tvOS app.'
   s.homepage = 'https://gitee.com/CKYFREE/SVProgressHUD'
   s.authors   = { 'ckyYU' => 'admin@uusuiyue.com' }
